@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -47,9 +48,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
