@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 ## Prefix Sum
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
