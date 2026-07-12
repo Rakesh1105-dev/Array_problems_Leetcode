@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
