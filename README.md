@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0525-contiguous-array) |
@@ -95,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
