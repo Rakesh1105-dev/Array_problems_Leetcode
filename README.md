@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
