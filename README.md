@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
 |  |
 | ------- |
