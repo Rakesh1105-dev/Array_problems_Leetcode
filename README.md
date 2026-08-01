@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
