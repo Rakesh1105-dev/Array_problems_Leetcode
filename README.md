@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
