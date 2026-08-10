@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
