@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
