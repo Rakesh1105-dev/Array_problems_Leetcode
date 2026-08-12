@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
