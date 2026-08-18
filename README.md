@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
