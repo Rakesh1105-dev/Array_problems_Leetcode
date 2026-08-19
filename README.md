@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0986-interval-list-intersections) |
 ## Stack
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
