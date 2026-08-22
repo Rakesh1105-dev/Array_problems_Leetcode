@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sliding Window
 |  |
 | ------- |
