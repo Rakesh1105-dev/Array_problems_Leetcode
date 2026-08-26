@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
