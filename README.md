@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0876-middle-of-the-linked-list) |
