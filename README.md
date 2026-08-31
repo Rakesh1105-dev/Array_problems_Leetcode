@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
