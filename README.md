@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0860-lemonade-change) |
