@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0986-interval-list-intersections) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
+| [0860-lemonade-change](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
