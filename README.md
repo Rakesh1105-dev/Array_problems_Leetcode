@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0525-contiguous-array) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
