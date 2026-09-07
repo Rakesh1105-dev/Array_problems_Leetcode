@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0525-contiguous-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
