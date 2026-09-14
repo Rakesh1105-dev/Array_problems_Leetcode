@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
