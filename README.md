@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1025-divisor-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Brainteaser
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
