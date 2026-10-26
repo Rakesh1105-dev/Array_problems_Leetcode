@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0039-combination-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
