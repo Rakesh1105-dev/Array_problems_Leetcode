@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0162-find-peak-element) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -356,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
