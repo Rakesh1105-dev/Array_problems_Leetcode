@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0055-jump-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -360,5 +362,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
