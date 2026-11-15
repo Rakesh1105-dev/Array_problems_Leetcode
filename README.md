@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0767-reorganize-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0189-rotate-array) |
