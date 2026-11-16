@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -374,4 +375,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rakesh1105-dev/Array_problems_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
